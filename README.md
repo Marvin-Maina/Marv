@@ -138,7 +138,7 @@ Hey! I'm a passionate **full-stack developer** who loves bringing ideas to life 
 
 <div align="center">
 
-[🔗 **Live Demo**](blogsitev2.vercel.app) • [📂 **Code**](https://github.com/Marvin-Maina/blogsitev2.git) 
+[🔗 **Live Demo**](https://blogsitev2.vercel.app/signup) • [📂 **Code**](https://github.com/Marvin-Maina/blogsitev2.git) 
 
 </div>
 
